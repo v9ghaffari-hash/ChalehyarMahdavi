@@ -1,9 +1,0 @@
-{
-  "appId": "com.github.manager",
-  "appName": "مدیریت GitHub",
-  "webDir": "www",
-  "backgroundColor": "#090d23",
-  "server": {
-    "androidScheme": "https"
-  }
-}
