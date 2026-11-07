@@ -3,7 +3,7 @@
 یک داشبورد فارسی و راست‌چین برای مدیریت مخازن GitHub، اجرای GitHub Actions، بررسی گزارش خطاها و دریافت Artifactها. آیکون برنامه از تصویر ارسالی شما ساخته شده است.
 
 ## امکانات برنامه
-
+. 
 - اتصال به GitHub با Fine-grained Personal Access Token
 - نمایش مخازن و شاخه‌ها
 - مشاهده و اجرای Workflowهای GitHub Actions
