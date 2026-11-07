@@ -1,0 +1,11 @@
+node_modules/
+www/
+android/
+artifacts/
+*.apk
+*.aab
+*.jks
+*.keystore
+.env
+.DS_Store
+Thumbs.db
