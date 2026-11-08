@@ -1,7 +1,0 @@
-قدم یار — تغییرات نسخه ۴۳
-
-- رفع خطای کامپایل گزارش‌شده در MainActivity.kt خط ۷۴۸: Alignment.TopLeft به Alignment.TopStart تغییر کرد.
-- شناسه مستقل برنامه: ir.chillehyar.qadamyar.v43
-- versionCode به ۴۳ و versionName به 43.0-qadam-yar افزایش یافت.
-- نام workflow و artifact خروجی به V43 تغییر کرد.
-- سایر قابلیت‌ها و رابط نسخه ۴۲ حفظ شده‌اند و فقط رفع خطا/نسخه‌بندی انجام شده است.
